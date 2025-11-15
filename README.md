@@ -1,6 +1,7 @@
 
-# Exercícios sobre Grafos 1
+# PD_LeetCode_Dupla13
 
+**Número da Lista**: 5<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
@@ -12,42 +13,33 @@
 
 ## Sobre
 
-Esse exercício visa buscar a resolução dos exercícios escolhidos pela plataforma do LeetCode, com o objetivo de mostrar nossos conhecimentos aprendidos no conteúdo Programação Dinâmica. Neles vamos aplicar conceitos e conhecimentos de lógica aprendidos na matéria de Projeto de Algoritmos com o professor Maurício Serrano.
+O trabalho realizado pela dupla 13 no módulo de programação dinâmica consiste na resolução de ** exercícios, sendo eles de dificuldade média ou difícil.
 
-## Problemas
+As seções abaixo informam a dificuldade de cada questão, linguagens utilizadas e os seus respectivos prints para confirmação da submissão.
+
+## Exercícios
+| Nome | Dificuldade |
+| -- | -- |
+| [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
+| [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
+| [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
 
 ## Screenshots
-...
+[Adicione 1 screenshot da questão.]: #
+### Exercício xxx. Name of Question (Média/Difícil)
+![Print do exercício xxx](screenshots/file.png)
+### Exercício xxx. Name of Question (Média/Difícil) 
+![Print do exercício xxx](screenshots/file.png)
+### Exercício xxx. Name of Question (Média/Difícil)
+![Print do exercício xxx](screenshots/file.png)
 
-### Questão 1   
-...
+## Linguagens 
+[**Linguagem**: xxxxxx<br>]: #
+[**Framework**: (caso exista)]: #<br>
+[Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.]: #
+JavaScript e Python
 
----
-### Questão 2  
-...
+## Vídeo
+[Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.]: #
 
----
-### Questão 3
-...
-
----
-### Questão 4
-
-...
-
----
-## Instalação
-
-...
-
-## Uso
-
-...
-
-## Apresentação
-
-...
-
-## Outros
-
-Para dúvidas, sugestões ou melhorias, entre em contato com os autores.
+[Vídeo de explicação das soluções de cada exercício](https://youtu.be/#######)
