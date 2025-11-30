@@ -20,14 +20,14 @@ As seções abaixo informam a dificuldade de cada questão, linguagens utilizada
 ## Exercícios
 | Nome | Dificuldade |
 | -- | -- |
-| [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  |  Difícil |
 | [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
 | [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
 
 ## Screenshots
 [Adicione 1 screenshot da questão.]: #
-### Exercício xxx. Name of Question (Média/Difícil)
-![Print do exercício xxx](screenshots/file.png)
+### Exercício 1235. Maximum Profit in Job Scheduling (Difícil)
+![Print do exercício 1235](screenshots/1235.png)
 ### Exercício xxx. Name of Question (Média/Difícil) 
 ![Print do exercício xxx](screenshots/file.png)
 ### Exercício xxx. Name of Question (Média/Difícil)
