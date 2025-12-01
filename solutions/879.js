@@ -1,7 +1,8 @@
 let profitableSchemes = (n, minProfit, group, profit) => {
 
     // Inicialização de variáveis
-    let countWays, schemes; 
+    let countWays, schemes, result; 
+    const MODULO = 1000000007;
 
     schemes = [];
 
@@ -25,10 +26,34 @@ let profitableSchemes = (n, minProfit, group, profit) => {
     // Caso base do problema
     countWays[0][0] = 1;
 
-    for (let i = 0; i < schemes.length; i++) {
+    let g, p;
 
-   
+    // Percorre os valores de cada crime
+    for (let i = 0; i < schemes.length; i++) {
+        g = schemes[i].weight;
+        p = schemes[i].value;
+
+        // Número de pessoas é percorrido
+        for (let j = n; j >= g; j--) {
+
+            // O lucro é percorrido aqui
+            let prevProfit;
+            for (let k = minProfit; k >= 0; k--) {
+
+                prevProfit = k - p;
+                if (prevProfit < 0) prevProfit = 0;
+
+                countWays[j][k] =
+                    (countWays[j][k] + countWays[j - g][prevProfit]) % MODULO;
+            }
+        }
     }
 
-    //return something;
+    // Soma todas as formas que atingem o lucro mínimo
+    result = 0;
+    for (let i = 0; i <= n; i++) {
+        result = (result + countWays[i][minProfit]) % MODULO;
+    }
+
+    return result;
 };
