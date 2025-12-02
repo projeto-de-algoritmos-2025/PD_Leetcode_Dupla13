@@ -37,9 +37,9 @@ As seções abaixo informam a dificuldade de cada questão, linguagens utilizada
 [**Linguagem**: xxxxxx<br>]: #
 [**Framework**: (caso exista)]: #<br>
 [Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.]: #
-JavaScript e Python
+JavaScript e C
 
 ## Vídeo
 [Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.]: #
 
-[Vídeo de explicação das soluções de cada exercício](https://youtu.be/#######)
+[Vídeo de explicação das soluções de cada exercício](https://youtu.be/WYSTxVZsR0Q)
