@@ -13,25 +13,25 @@
 
 ## Sobre
 
-O trabalho realizado pela dupla 13 no módulo de programação dinâmica consiste na resolução de ** exercícios, sendo eles de dificuldade média ou difícil.
+O trabalho realizado pela dupla 13 no módulo de programação dinâmica consiste na resolução de 3 exercícios, sendo eles de dificuldade média ou difícil.
 
 As seções abaixo informam a dificuldade de cada questão, linguagens utilizadas e os seus respectivos prints para confirmação da submissão.
 
 ## Exercícios
 | Nome | Dificuldade |
 | -- | -- |
+| [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)  | Média |
 | [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/)  | Difícil |
-| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  |  Difícil |
-| [xxx. Name](https://leetcode.com/problems/name-of-question/description/)  |  Média/Difícil |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  | Difícil |
 
 ## Screenshots
 [Adicione 1 screenshot da questão.]: #
+### Exercício 474. Ones and Zeroes (Média)
+![Print do exercício 474](screenshots/474.png)
 ### Exercício 879. Profitable Schemes (Difícil) 
 ![Print do exercício 879](screenshots/879.png)
 ### Exercício 1235. Maximum Profit in Job Scheduling (Difícil)
 ![Print do exercício 1235](screenshots/1235.png)
-### Exercício xxx. Name of Question (Média/Difícil)
-![Print do exercício xxx](screenshots/file.png)
 
 ## Linguagens 
 [**Linguagem**: xxxxxx<br>]: #
